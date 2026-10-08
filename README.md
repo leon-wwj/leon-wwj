@@ -14,7 +14,3 @@
 **[任务管理系统](https://github.com/leon-wwj/task-manager)** — Vue3 + Pinia + Axios 的企业化重构项目
 
 四层职责分离（组件 → Pinia → service → api）、Axios 拦截器统一鉴权与错误处理、接口 / 本地存储双模式可切换、SPA 刷新 404 处理、Vitest 单测、Vercel 部署。
-
-## 简历
-
-[下载 PDF](https://github.com/leon-wwj/resume)
